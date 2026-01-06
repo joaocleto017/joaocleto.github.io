@@ -300,7 +300,7 @@
 
         // === VÍDEO ÚNICO ===
         if (p.type === "video") {
-          if (p.video.includes("youtube.com") || p.video.includes("vimeo.com") || p.isExternal) {
+          if (p.video.includes("youtube.com") || p.video.includes("streamable.com") || p.isExternal) {
             content += `
               <div class="w-full max-w-4xl mx-auto py-8">
                 <div class="relative pb-[56.25%] rounded-2xl overflow-hidden shadow-2xl">
