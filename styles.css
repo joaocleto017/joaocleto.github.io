@@ -1,0 +1,50 @@
+.vanta-bg { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; }
+    
+    /* Glass adaptado ao novo tema (amarelo-avermelhado) */
+    .glass { 
+      backdrop-filter: blur(15px); 
+      background: rgba(245, 166, 35, 0.15) !important; /* tom amber suave */
+      border: 1px solid rgba(231, 76, 60, 0.4); /* vermelho */
+      box-shadow: 0 8px 32px rgba(231, 76, 60, 0.2);
+    }
+    
+    .project:hover img { transform: scale(1.1); transition: 0.5s; }
+
+    /* Modal */
+    #modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.95);
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+    #modal.active { display: flex; }
+    #modalBox {
+      transform: scale(0.9);
+      opacity: 0;
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.1);
+    }
+    #modal.active #modalBox {
+      transform: scale(1);
+      opacity: 1;
+    }
+    html.modal-open { overflow: hidden; }
+
+    /* Scroll bonito */
+    .scrollbar-thin::-webkit-scrollbar { width: 8px; }
+    .scrollbar-thin::-webkit-scrollbar-track { background: transparent; }
+    .scrollbar-thin::-webkit-scrollbar-thumb { background: #e74c3c; border-radius: 4px; }
+    .scrollbar-thin::-webkit-scrollbar-thumb:hover { background: #c0392b; }
+
+    section {
+    overflow: visible !important; /* evita corte */
+    position: relative;
+  }
+
+  h2 {
+    position: relative;
+    z-index: 10; /* título por cima se necessário */
+  }
