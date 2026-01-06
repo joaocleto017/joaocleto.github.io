@@ -357,7 +357,7 @@
           let slides = '';
           items.forEach(item => {
             if (item.type === "video") {
-              if (item.src.includes("youtube.com") || item.src.includes("vimeo.com")) {
+              if (item.src.includes("youtube.com") || item.src.includes("streamable.com")) {
                 slides += `
                   <div class="swiper-slide flex items-center justify-center bg-black/60 p-4">
                     <div class="relative w-full max-w-4xl h-[70vh]">
