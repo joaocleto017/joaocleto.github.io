@@ -92,13 +92,13 @@
         title: "Madrid",
         description: "Fotos tiradas em Madrid, Espanha.",
         images: [
-          "fotografia/madrid/1.jpg",
-          "fotografia/madrid/2.jpg",
-          "fotografia/madrid/3.jpg",
-          "fotografia/madrid/4.jpg",
-          "fotografia/madrid/5.jpg",
-          "fotografia/madrid/6.jpg",
-          "fotografia/madrid/7.jpg",
+          "madrid1.jpg",
+          "madrid2.jpg",
+          "madrid3.jpg",
+          "madrid4.jpg",
+          "madrid5.jpg",
+          "madrid6.jpg",
+          "madrid7.jpg",
         ]
       },
       foto2: {
@@ -106,14 +106,14 @@
         title: "Lisboa",
         description: "Fotos tiradas em Lisboa, Portugal",
         images: [
-          "lisboa/1.jpg",
-          "lisboa/2.jpg",
-          "lisboa/3.jpg",
-          "lisboa/4.jpg",
-          "lisboa/5.jpg",
-          "lisboa/6.jpg",
-          "lisboa/7.jpg",
-          "lisboa/8.jpg",
+          "lisboa1.jpg",
+          "lisboa2.jpg",
+          "lisboa3.jpg",
+          "lisboa4.jpg",
+          "lisboa5.jpg",
+          "lisboa6.jpg",
+          "lisboa7.jpg",
+          "lisboa8.jpg",
         ]
       },
       foto3: {
@@ -121,15 +121,15 @@
         title: "Açores",
         description: "Fotos tiradas em São Miguel, Açores",
         images: [
-          "fotografia/acores/1.jpg",
-          "fotografia/acores/2.jpg",
-          "fotografia/acores/3.jpg",
-          "fotografia/acores/4.jpg",
-          "fotografia/acores/5.jpg",
-          "fotografia/acores/6.jpg",
-          "fotografia/acores/7.jpg",
-          "fotografia/acores/8.jpg",
-          "fotografia/acores/9.jpg",
+          "acores1.jpg",
+          "acores2.jpg",
+          "acores3.jpg",
+          "acores4.jpg",
+          "acores5.jpg",
+          "acores6.jpg",
+          "acores7.jpg",
+          "acores8.jpg",
+          "acores9.jpg",
         ]
       },
       foto4: {
@@ -137,17 +137,17 @@
         title: "Paisagens",
         description: "Fotos tiradas no dia a dia",
         images: [
-          "fotografia/paisagens/1.jpg",
-          "fotografia/paisagens/2.jpg",
-          "fotografia/paisagens/3.jpg",
-          "fotografia/paisagens/4.jpg",
-          "fotografia/paisagens/5.jpg",
-          "fotografia/paisagens/6.jpg",
-          "fotografia/paisagens/7.jpg",
-          "fotografia/paisagens/8.jpg",
-          "fotografia/paisagens/9.jpg",
-          "fotografia/paisagens/10.jpg",
-          "fotografia/paisagens/11.jpg",
+          "paisagens1.jpg",
+          "paisagens2.jpg",
+          "paisagens3.jpg",
+          "paisagens4.jpg",
+          "paisagens5.jpg",
+          "paisagens6.jpg",
+          "paisagens7.jpg",
+          "paisagens8.jpg",
+          "paisagens9.jpg",
+          "paisagens10.jpg",
+          "paisagens11.jpg",
         ]
       },
       foto5: {
@@ -155,10 +155,10 @@
         title: "Basebol",
         description: "Fotos minhas a praticar o meu desporto favorito, basebol.",
         images: [
-          "fotografia/basebol/1.jpg",
-          "fotografia/basebol/2.jpg",
-          "fotografia/basebol/3.jpg",
-          "fotografia/basebol/4.jpg",
+          "basebol1.jpg",
+          "basebol2.jpg",
+          "basebol3.jpg",
+          "basebol4.jpg",
         ]
       },
       d31: {
@@ -166,10 +166,10 @@
         title: "Cadeira",
         description: "Este trabalho de modelação tinha como objetivo criar uma cadeira e um ambiente para a mesma no 3DsMAX.",
         images: [
-          "cadeira/1.png",
-          "cadeira/2.png",
-          "cadeira/3.png",
-          "cadeira/4.png",
+          "cadeira1.png",
+          "cadeira2.png",
+          "cadeira3.png",
+          "cadeira4.png",
         ]
       },
       d32: {
@@ -177,13 +177,13 @@
         title: "Rato",
         description: "Este trabalho de modelação tinha como objetivo criar um rato de teclado e um ambiente em volta do mesmo no 3DsMAX.",
         images: [
-          "rato/1.png",
-          "rato/2.png",
-          "rato/3.png",
-          "rato/4.png",
-          "rato/5.png",
-          "rato/6.png",
-          "rato/7.png",
+          "rato1.png",
+          "rato2.png",
+          "rato3.png",
+          "rato4.png",
+          "rato5.png",
+          "rato6.png",
+          "rato7.png",
         ]
       },
       d33: {
@@ -191,9 +191,9 @@
         title: "Peixe",
         description: "Este trabalho de modelação tinha como objetivo criar peixes e um ambiente para eles no 3DsMAX.",
         images: [
-          "peixe/1.png",
-          "peixe/2.png",
-          "peixe/3.png",
+          "peixe1.png",
+          "peixe2.png",
+          "peixe3.png",
         ]
       },
       d34: {
@@ -201,11 +201,11 @@
         title: "Tabuleiro",
         description: "Este trabalho de modelação tinha como objetivo criar um tabuleiro de jogo e criar uma animação de colisão entre objetos e um ambiente em volta do mesmo no 3DsMAX.",
         items: [
-          { type: "image", src: "tabu/1.png" },  
-          { type: "image", src: "tabu/2.png" },
-          { type: "image", src: "tabu/3.png" },
-          { type: "image", src: "tabu/4.png" },
-          { type: "image", src: "tabu/5.png" },
+          { type: "image", src: "tabu1.png" },  
+          { type: "image", src: "tabu2.png" },
+          { type: "image", src: "tabu3.png" },
+          { type: "image", src: "tabu4.png" },
+          { type: "image", src: "tabu5.png" },
           { type: "video", src: "https://www.youtube.com/embed/9dcswXCNV6w?si=DtwCX1-It5PUutFS" }
         ]
       },
@@ -213,7 +213,7 @@
         type: "video",
         title: "Vídeo 25 de Abril",
         description: "Vídeo comemorativo do 25 de abril",
-        video: "projetos/estagio/25deabril/25_de_abril_me.mp4"
+        video: "https://youtube.com/shorts/EvaVkXtTZcs?si=K6nt2HZKCqVU8d7k"
       },
       estagio2: {
         type: "video",
@@ -225,19 +225,19 @@
         type: "video",
         title: "Dia do trabalhador",
         description: "Vídeo comemorativo do dia do trabalhador.",
-        video: "projetos/estagio/dia_trabalhador/video.mp4"
+        video: "https://youtube.com/shorts/Xu7B025IAzY?si=KcQNpP3NO878qST0"
       },
       projeto1: {
         type: "gallery",
         title: "VrEstate - Design",
         description: "Aqui mostro algumas das coisas que realizamos em termos de design.",
         images: [
-          "projetos/projeto/design/1.jpg",
-          "projetos/projeto/design/2.png",
-          "projetos/projeto/design/3.png",
-          "projetos/projeto/design/4.png",
-          "projetos/projeto/design/5.jpg",
-          "projetos/projeto/design/6.png",
+          "design1.jpg",
+          "design2.png",
+          "design3.png",
+          "design4.png",
+          "design5.jpg",
+          "design6.png",
         ]
       },
       projeto2: {
@@ -245,10 +245,10 @@
         title: "VrEstate - Redes Sociais",
         description: "Aqui apresento alguns posts ficticios que realizamos para apresentar o projeto.",
         images: [
-          "projetos/projeto/redes/post 1.png",
-          "projetos/projeto/redes/post 2.png",
-          "projetos/projeto/redes/post 3.png",
-          "projetos/projeto/redes/post 4.png",
+          "post 1.png",
+          "post 2.png",
+          "post 3.png",
+          "post 4.png",
         ]
       },
       projeto3: {
@@ -256,9 +256,9 @@
         title: "VrEstate - Vídeos",
         description: "Estes videos são: uma animação de logotipo, uma ilustração de mockus de acuncios em sites e um anuncio televisivo da VrEstate.",
         items: [
-          { type: "video", src: "projetos/projeto/videos/vb2.mp4" },
-          { type: "video", src: "projetos/projeto/videos/mockup_ads.mp4" },  
-          { type: "video", src: "projetos/projeto/videos/vrestateanuncio_rede.mp4" }
+          { type: "video", src: "vb2.mp4" },
+          { type: "video", src: "https://www.youtube.com/embed/k2DtXibmEpI?si=yGuQ32E3M0YJdNnJ" },  
+          { type: "video", src: "https://www.youtube.com/embed/dA6q9cMYx4E?si=pROX_D9Xyge6ajGI" }
         ]
       },
       projeto4: {
@@ -266,10 +266,10 @@
         title: "VrEstate - App Store",
         description: "Estas ilustrações são os grafismos que seriam apresentados na App Store ou na Google Store.",
         images: [
-          "projetos/projeto/app/4.jpg",
-          "projetos/projeto/app/1.png",
-          "projetos/projeto/app/2.png",
-          "projetos/projeto/app/3.png",
+          "app4.jpg",
+          "app1.png",
+          "app2.png",
+          "app3.png",
         ]
       },
       projeto5: {
