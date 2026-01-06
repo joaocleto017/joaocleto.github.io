@@ -54,7 +54,7 @@
         type: "video",
         title: "Creative Istanbul",
         description: "O conceito do vídeo para o trabalho apresentado era a redução e a seleção de partes de um vídeo para a criação deste.",
-        video: "https://streamable.com/e/drlsw5?"
+        video: "https://streamable.com/e/drlsw5"
       },
       video2: {
         type: "video",
@@ -305,10 +305,11 @@
               <div class="w-full max-w-4xl mx-auto py-8">
                 <div class="relative pb-[56.25%] rounded-2xl overflow-hidden shadow-2xl">
                   <iframe class="absolute inset-0 w-full h-full" 
-                          src="${p.video}" 
-                          frameborder="0" 
-                          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                          allowfullscreen></iframe>
+                          src="${p.video}"
+                          frameborder="0"
+                          allowfullscreen
+                          allow="autoplay; encrypted-media">
+                  </iframe>
                 </div>
               </div>
             `;
