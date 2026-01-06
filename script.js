@@ -54,7 +54,7 @@
         type: "video",
         title: "Creative Istanbul",
         description: "O conceito do vídeo para o trabalho apresentado era a redução e a seleção de partes de um vídeo para a criação deste.",
-        video: "https://www.youtube.com/embed/BIRUbjRrYEM?si=YaxfeWKITXx3lLLk"
+        video: "https://streamable.com/e/drlsw5?"
       },
       video2: {
         type: "video",
