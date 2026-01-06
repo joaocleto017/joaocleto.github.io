@@ -60,31 +60,31 @@
         type: "video",
         title: "Ghost in the shell Sound Redesign",
         description: "Este trabalho foi consebido para conseguir criar um novo design de som para a intro do filme Ghost In The Shell.",
-        video: "https://www.youtube.com/embed/WsiV34MqeBA?si=jQiri3Hf5AVQ3EEo"
+        video: "https://streamable.com/e/j1o89d"
       },
       video3: {
         type: "video",
         title: "Como verificar Fake news",
         description: "Este vídeo foi um trabalho para intuito de E-Learnig, em grupo fizemos dois vídeos sobre as fake news e eu fiquei encarregue deste vídeo.",
-        video: "https://www.youtube.com/embed/WWTjkFjfu6Q?si=rPOEG_GPAfJ3ci6X"
+        video: "https://streamable.com/e/0cve53"
       },
       video4: {
         type: "video",
         title: "Noticiário planetário",
         description: "Este vídeo foi criado para realizar um trabalho de criação de um genérico televisivo com o uso do green screen.",
-        video: "https://www.youtube.com/embed/s2Ff5fooUME?si=Pi13-oUb_L40zqm8"
+        video: "https://streamable.com/e/l7ubao"
       },
       video5: {
         type: "video",
         title: "Video motivacional",
         description: "Este vídeo foi um dos primeiros em que me gravei para um trabalho de vídeo de tema livre, e escolhi este tema motivacional para aquelas pessoas que quando pensam que não alcançaram nada olhem para trás para ver as diferenças.",
-        video: "https://www.youtube.com/embed/wpYzAhj86Jw?si=gv1rJxFiHkxJ-9fD"
+        video: "https://streamable.com/e/q8bcde"
       },
       video6: {
         type: "video",
         title: "Top 10 reasons my city shines: Torres Vedras",
         description: "Este vídeo só tratei da edição, que foi para um trabalho de inglês de uma pessoa, que consiste em mostrar e falar de 10 coisas de Torres Vedras.",
-        video: "https://www.youtube.com/embed/wYhaYG-xMZo?si=0WAwdpFnSknLa2ph"
+        video: "https://streamable.com/e/jwemrz"
       },
       
       foto1: {
@@ -206,26 +206,26 @@
           { type: "image", src: "tabu3.png" },
           { type: "image", src: "tabu4.png" },
           { type: "image", src: "tabu5.png" },
-          { type: "video", src: "https://www.youtube.com/embed/9dcswXCNV6w?si=DtwCX1-It5PUutFS" }
+          { type: "video", src: "https://streamable.com/e/jaa90c" }
         ]
       },
       estagio1: {
         type: "video",
         title: "Vídeo 25 de Abril",
         description: "Vídeo comemorativo do 25 de abril",
-        video: "https://youtube.com/shorts/EvaVkXtTZcs?si=K6nt2HZKCqVU8d7k"
+        video: "https://streamable.com/e/pao8x2"
       },
       estagio2: {
         type: "video",
         title: "Guia de Acesso ao Ensino Superior 2024/2025",
         description: "Vídeo de ilustração de uma revista da Mais Educativa.",
-        video: "https://youtube.com/embed/shorts/_ORTbITI5Ag?si=1GLneRiH2pc6XqxH"
+        video: "https://streamable.com/e/jq1avx"
       },
       estagio3: {
         type: "video",
         title: "Dia do trabalhador",
         description: "Vídeo comemorativo do dia do trabalhador.",
-        video: "https://youtube.com/shorts/Xu7B025IAzY?si=KcQNpP3NO878qST0"
+        video: "https://streamable.com/e/227qvt"
       },
       projeto1: {
         type: "gallery",
@@ -257,8 +257,8 @@
         description: "Estes videos são: uma animação de logotipo, uma ilustração de mockus de acuncios em sites e um anuncio televisivo da VrEstate.",
         items: [
           { type: "video", src: "vb2.mp4" },
-          { type: "video", src: "https://www.youtube.com/embed/k2DtXibmEpI?si=yGuQ32E3M0YJdNnJ" },  
-          { type: "video", src: "https://www.youtube.com/embed/dA6q9cMYx4E?si=pROX_D9Xyge6ajGI" }
+          { type: "video", src: "https://streamable.com/e/22onjl" },  
+          { type: "video", src: "https://streamable.com/e/1fgz9i" }
         ]
       },
       projeto4: {
