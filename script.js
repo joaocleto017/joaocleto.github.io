@@ -357,26 +357,32 @@
           let slides = '';
           items.forEach(item => {
             if (item.type === "video") {
-              if (item.src.includes("youtube.com") || item.src.includes("streamable.com")) {
+              const isYouTube = item.src.includes("youtube.com/embed") || item.src.includes("youtu.be");
+              const isStreamable = item.src.includes("streamable.com/e/");
+              const isVimeo = item.src.includes("player.vimeo.com");
+
+              if (isYouTube || isStreamable || isVimeo) {
+                // Vídeo externo com iframe
                 slides += `
                   <div class="swiper-slide flex items-center justify-center bg-black/60 p-4">
                     <div class="relative w-full max-w-4xl h-[70vh]">
                       <iframe class="absolute inset-0 w-full h-full rounded-2xl shadow-2xl"
                               src="${item.src}"
                               frameborder="0"
-                              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"
                               allowfullscreen></iframe>
                     </div>
                   </div>
                 `;
               } else {
+                // Vídeo local
                 slides += `
                   <div class="swiper-slide flex items-center justify-center bg-black/60 p-4">
-                  <video class="max-w-full max-h-[75vh] rounded-2xl shadow-2xl" 
-                        controls preload="metadata" playsinline>
-                    <source src="${item.src}" type="video/mp4">
-                    O teu navegador não suporta vídeo.
-                  </video>
+                    <video class="max-w-full max-h-[75vh] rounded-2xl shadow-2xl" 
+                          controls preload="metadata" playsinline>
+                      <source src="${item.src}" type="video/mp4">
+                      O teu navegador não suporta vídeo.
+                    </video>
                   </div>
                 `;
               }
