@@ -254,7 +254,7 @@
       projeto3: {
         type: "mixed",
         title: "VrEstate - Vídeos",
-        description: "Estes videos são: uma animação de logotipo, uma ilustração de mockus de acuncios em sites e um anuncio televisivo da VrEstate.",
+        description: "Estes videos são: uma animação de logotipo, uma ilustração de mockus de anúncios em sites e um anúncio televisivo da VrEstate.",
         items: [
           { type: "video", src: "vb2.mp4" },
           { type: "video", src: "https://streamable.com/e/22onjl" },  
@@ -275,7 +275,7 @@
       projeto5: {
         type: "iframe",
         title: "VrEstate - App mobile(Propótipo Interativo)",
-        description: "Este é o protótipo de uma aplicação mobile para a VrEstate que mostra como seria para a procura e agendamento da visita a uma casa.Aconselho a clicarem na primeira casa apresentada nos 'Apartamentos' para ver a parte protótipada e no icon da VrEstate e experimentar Fazer Login e Registar conta. Desenvolvido em Figma.",
+        description: "Este é o protótipo de uma aplicação mobile para a VrEstate que mostra como seria para a procura e agendamento da visita a uma casa.Aconselho a clicarem na primeira casa apresentada nos 'Apartamentos' para ver a parte protótipada e no ícone da VrEstate e experimentar Fazer Login e Registar conta. Desenvolvido em Figma.",
         iframe: "https://embed.figma.com/proto/xxJ0rPbRDbGNKHdCGnhthK/VRESTATE_mobile?node-id=241-2&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=241%3A2&embed-host=share",
       },
     };
@@ -484,4 +484,5 @@
       `;
       fullscreenDiv.onclick = () => document.body.removeChild(fullscreenDiv);
       document.body.appendChild(fullscreenDiv);
+
     }
