@@ -137,17 +137,17 @@
         title: "Paisagens",
         description: "Fotos tiradas no dia a dia",
         images: [
-          "paisagens1.jpg",
-          "paisagens2.jpg",
-          "paisagens3.jpg",
-          "paisagens4.jpg",
-          "paisagens5.jpg",
-          "paisagens6.jpg",
-          "paisagens7.jpg",
-          "paisagens8.jpg",
-          "paisagens9.jpg",
-          "paisagens10.jpg",
-          "paisagens11.jpg",
+          "paisagem1.jpg",
+          "paisagem2.jpg",
+          "paisagem3.jpg",
+          "paisagem4.jpg",
+          "paisagem5.jpg",
+          "paisagem6.jpg",
+          "paisagem7.jpg",
+          "paisagem8.jpg",
+          "paisagem9.jpg",
+          "paisagem10.jpg",
+          "paisagem11.jpg",
         ]
       },
       foto5: {
@@ -486,3 +486,4 @@
       document.body.appendChild(fullscreenDiv);
 
     }
+
